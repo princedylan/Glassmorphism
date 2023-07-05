@@ -1,2 +1,4 @@
-# Glassmorphism
-Responsive glass card with Vanilla.js 
+# Glassmorphism  
+<ul>
+<li><strong>Languages</strong>: HTML5, CSS3, JavaScript, Vanila.js</li>
+</ul> 
